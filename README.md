@@ -22,7 +22,7 @@
 ### ✨ Entre em contato! ✨
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/williams-silva-677b6a14b/)
-[<img alt="Instagram" src="https://img.shields.io/badge/marcoa25%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/youngwillfit/)
+[<img alt="Instagram" src="https://img.shields.io/badge/youngwillfit%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/youngwillfit/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:youngwillbr@gmail.com)
 
 ![Snake animation](https://github.com/willgja/willgja/blob/output/github-contribution-grid-snake.svg)
