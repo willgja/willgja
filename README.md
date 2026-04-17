@@ -4,7 +4,7 @@
   
 
 ## About me:
-- Meu nome é Williams, tenho 23 anos
+- Meu nome é Williams, tenho 26 anos
 - Sou de Guarujá-SP
 - Graduando em Desenvolvimento de Jogos pela FIAP
 - Àreas de estudo: programação de jogos, gamelevel, desenvolvimento web, IA e desenvolvimento de software.
